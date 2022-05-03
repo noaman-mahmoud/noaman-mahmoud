@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Noaman Mahmoud</h1>
 <h3 align="center">A Backend Developer</h3>
 
