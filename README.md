@@ -6,11 +6,13 @@ I'm Noaman , php developer with extensive experience in the coding of websites s
 
 <h2> Contact with me on </h2>
 
-<p><a href="https://wa.me/+201069980020" target="_blank"><img alt="whatsapp" src="https://img.shields.io/badge/whatsapp-128C7E.svg?style=for-the-badge&logo=whatsapp&logoColor=white" /></a> <a href="https://www.facebook.com/senior.noaman" target="_blank"><img alt="facebook" src="https://img.shields.io/badge/Facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white" /></a> <a href="https://www.linkedin.com/in/noaman-mahmoud/" target="_blank"><img alt="linkedin" src="https://img.shields.io/badge/linkedin-0077b5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<p>
+<!--   <a href="https://wa.me/+201069980020" target="_blank"><img alt="whatsapp" src="https://img.shields.io/badge/whatsapp-128C7E.svg?style=for-the-badge&logo=whatsapp&logoColor=white" /> -->
+  </a> <a href="https://www.facebook.com/senior.noaman" target="_blank"><img alt="facebook" src="https://img.shields.io/badge/Facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white" /></a> <a href="https://www.linkedin.com/in/noaman-mahmoud/" target="_blank"><img alt="linkedin" src="https://img.shields.io/badge/linkedin-0077b5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <hr>
 
 - Email    : no3man.mahmoud@gmail.com
-- whatsApp : https://wa.me/+201069980020
+<!-- - whatsApp : https://wa.me/+201069980020 -->
 - facebook : https://www.facebook.com/senior.noaman
 - linkedIn : https://www.linkedin.com/in/noaman-mahmoud/
 <hr>
