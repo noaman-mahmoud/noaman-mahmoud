@@ -12,7 +12,7 @@ I'm Noaman , php developer with extensive experience in the coding of websites s
 </a>
 <a href="https://www.linkedin.com/in/noaman-mahmoud/" target="_blank"><img alt="linkedin" src="https://img.shields.io/badge/linkedin-0077b5.svg?style=for-    the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:no3man.mahmooud@gmail.com?subject=github noaman" target="_blank"><img alt="gmail" src="https://img.shields.io/badge/Gmail-Gmail-red"/>
+<a href="mailto:no3man.mahmoud@gmail.com?subject=github noaman" target="_blank"><img alt="gmail" src="https://img.shields.io/badge/Gmail-Gmail-red"/>
 </a>
 <hr>
 
